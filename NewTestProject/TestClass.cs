@@ -12,14 +12,14 @@ namespace NewTestProject.Test
     {
 
         [Theory]
-        [InlineData(3, 0)]
-        [InlineData(1, 1)]
-        [InlineData(2, 3)]
+        [InlineData(5, 0)]
+        [InlineData(1, 2)]
+        [InlineData(2, 2)]
         public void GetNumberOfReviewsFromReviewer_ValidArguments(int reviewer, int reviews)
         {
             FakeRepository movieRatingRepository = new FakeRepository();
             movieRatingRepository.Add(new MovieRatings(1, 3, 2, DateTime.Now));
-            movieRatingRepository.Add(new MovieRatings(2, 1, 2, DateTime.Now));
+            movieRatingRepository.Add(new MovieRatings(1, 1, 2, DateTime.Now));
             movieRatingRepository.Add(new MovieRatings(2, 2, 2, DateTime.Now));
             movieRatingRepository.Add(new MovieRatings(2, 3, 2, DateTime.Now));
             IMovieRatingService movieRatingService = new MovieRatingService(movieRatingRepository);
@@ -66,12 +66,13 @@ namespace NewTestProject.Test
         }
 
         [Theory]
-        [InlineData(1, 1, 1)]
+        [InlineData(3, 1, 2)]
         [InlineData(2, 3, 3)]
         public void GetCountOfGradesGivenByReviewer_ValidArguments(int reviewer, int grade, int count)
         {
             FakeRepository movieRatingRepository = new FakeRepository();
-            movieRatingRepository.Add(new MovieRatings(1, 3, grade, DateTime.Now));
+            movieRatingRepository.Add(new MovieRatings(3, 3, grade, DateTime.Now));
+            movieRatingRepository.Add(new MovieRatings(3, 4, grade, DateTime.Now));
             movieRatingRepository.Add(new MovieRatings(2, 1, grade, DateTime.Now));
             movieRatingRepository.Add(new MovieRatings(2, 2, grade, DateTime.Now));
             movieRatingRepository.Add(new MovieRatings(2, 3, grade, DateTime.Now));
@@ -120,8 +121,8 @@ namespace NewTestProject.Test
         }
 
         [Theory]
-        [InlineData(3, 0)]
-        [InlineData(4, 0)]
+        [InlineData(6, 0)]
+        [InlineData(7, 0)]
         public void AverageRatingRecievedByMovie_ValidArguments_ReturnZero(int movie, double average)
         {
             FakeRepository movieRatingRepository = new FakeRepository();
@@ -137,13 +138,14 @@ namespace NewTestProject.Test
         }
 
         [Theory]
-        [InlineData(1, 1, 0)]
-        [InlineData(2, 2, 1)]
-        [InlineData(3, 3, 3)]
+        [InlineData(9, 1, 0)]
+        [InlineData(2, 4, 1)]
+        [InlineData(3, 3, 4)]
         public void GetCountOfGradesGottenByMovie_ValidArgumentse(int movie, int grade, int count)
         {
             FakeRepository movieRatingRepository = new FakeRepository();
-            movieRatingRepository.Add(new MovieRatings(2, 2, 2, DateTime.Now));
+            movieRatingRepository.Add(new MovieRatings(2, 2, 4, DateTime.Now));
+            movieRatingRepository.Add(new MovieRatings(2, 3, 3, DateTime.Now));
             movieRatingRepository.Add(new MovieRatings(2, 3, 3, DateTime.Now));
             movieRatingRepository.Add(new MovieRatings(2, 3, 3, DateTime.Now));
             movieRatingRepository.Add(new MovieRatings(2, 3, 3, DateTime.Now));
@@ -285,6 +287,7 @@ namespace NewTestProject.Test
 
             Assert.Throws<ArgumentException>(actual);
         }
+
         [Fact]
         public void InvalidMovieID_ThrowsArgumentException()
         {
