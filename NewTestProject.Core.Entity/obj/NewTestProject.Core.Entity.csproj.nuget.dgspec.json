@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nedas\\Desktop\\NewTestProject\\NewTestProject.Core.Entity\\NewTestProject.Core.Entity.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nedas\\Desktop\\NewTestProject\\NewTestProject.Core.Entity\\NewTestProject.Core.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nedas\\Desktop\\NewTestProject\\NewTestProject.Core.Entity\\NewTestProject.Core.Entity.csproj",
+        "projectName": "NewTestProject.Core.Entity",
+        "projectPath": "C:\\Users\\nedas\\Desktop\\NewTestProject\\NewTestProject.Core.Entity\\NewTestProject.Core.Entity.csproj",
+        "packagesPath": "C:\\Users\\nedas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nedas\\Desktop\\NewTestProject\\NewTestProject.Core.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nedas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\bin\Debug\netcoreapp2.2\NewTestProject.Infrastructure.deps.json
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\bin\Debug\netcoreapp2.2\NewTestProject.Infrastructure.dll
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\bin\Debug\netcoreapp2.2\NewTestProject.Infrastructure.pdb
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\bin\Debug\netcoreapp2.2\NewTestProject.Core.Entity.dll
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\bin\Debug\netcoreapp2.2\NewTestProject.Core.Service.dll
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\bin\Debug\netcoreapp2.2\NewTestProject.Core.Entity.pdb
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\bin\Debug\netcoreapp2.2\NewTestProject.Core.Service.pdb
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\obj\Debug\netcoreapp2.2\NewTestProject.Infrastructure.csprojAssemblyReference.cache
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\obj\Debug\netcoreapp2.2\NewTestProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\obj\Debug\netcoreapp2.2\NewTestProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\obj\Debug\netcoreapp2.2\NewTestProject.Infrastructure.AssemblyInfo.cs
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\obj\Debug\netcoreapp2.2\NewTestProject.Infrastructure.csproj.CopyComplete
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\obj\Debug\netcoreapp2.2\NewTestProject.Infrastructure.dll
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Infrastructure\obj\Debug\netcoreapp2.2\NewTestProject.Infrastructure.pdb

@@ -1,0 +1,14 @@
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\bin\Debug\netcoreapp2.1\NewTestProject.Test.deps.json
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\bin\Debug\netcoreapp2.1\NewTestProject.Test.runtimeconfig.json
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\bin\Debug\netcoreapp2.1\NewTestProject.Test.runtimeconfig.dev.json
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\bin\Debug\netcoreapp2.1\NewTestProject.Test.dll
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\bin\Debug\netcoreapp2.1\NewTestProject.Test.pdb
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\obj\Debug\netcoreapp2.1\NewTestProject.Test.csprojAssemblyReference.cache
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\obj\Debug\netcoreapp2.1\NewTestProject.Test.csproj.CoreCompileInputs.cache
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\obj\Debug\netcoreapp2.1\NewTestProject.Test.AssemblyInfoInputs.cache
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\obj\Debug\netcoreapp2.1\NewTestProject.Test.AssemblyInfo.cs
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\obj\Debug\netcoreapp2.1\NewTestProject.Test.dll
+C:\Users\nedas\Desktop\NewTestProject\NewTestProject\obj\Debug\netcoreapp2.1\NewTestProject.Test.pdb
