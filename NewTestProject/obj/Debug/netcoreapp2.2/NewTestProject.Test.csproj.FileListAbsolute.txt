@@ -13,7 +13,6 @@ C:\Users\nedas\Desktop\NewTestProject\NewTestProject\bin\Debug\netcoreapp2.2\New
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject\bin\Debug\netcoreapp2.2\NewTestProject.Core.Service.pdb
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject\bin\Debug\netcoreapp2.2\NewTestProject.Infrastructure.pdb
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject\obj\Debug\netcoreapp2.2\NewTestProject.Test.csprojAssemblyReference.cache
-C:\Users\nedas\Desktop\NewTestProject\NewTestProject\obj\Debug\netcoreapp2.2\NewTestProject.Test.csproj.CoreCompileInputs.cache
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject\obj\Debug\netcoreapp2.2\NewTestProject.Test.AssemblyInfoInputs.cache
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject\obj\Debug\netcoreapp2.2\NewTestProject.Test.AssemblyInfo.cs
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject\obj\Debug\netcoreapp2.2\NewTestProject.Test.csproj.CopyComplete

@@ -4,7 +4,6 @@ C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Service\bin\Debug\netc
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Service\bin\Debug\netcoreapp2.2\NewTestProject.Core.Entity.dll
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Service\bin\Debug\netcoreapp2.2\NewTestProject.Core.Entity.pdb
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Service\obj\Debug\netcoreapp2.2\NewTestProject.Core.Service.csprojAssemblyReference.cache
-C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Service\obj\Debug\netcoreapp2.2\NewTestProject.Core.Service.csproj.CoreCompileInputs.cache
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Service\obj\Debug\netcoreapp2.2\NewTestProject.Core.Service.AssemblyInfoInputs.cache
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Service\obj\Debug\netcoreapp2.2\NewTestProject.Core.Service.AssemblyInfo.cs
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Service\obj\Debug\netcoreapp2.2\NewTestProject.Core.Service.csproj.CopyComplete

@@ -2,7 +2,6 @@ C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Entity\bin\Debug\netco
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Entity\bin\Debug\netcoreapp2.2\NewTestProject.Core.Entity.dll
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Entity\bin\Debug\netcoreapp2.2\NewTestProject.Core.Entity.pdb
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Entity\obj\Debug\netcoreapp2.2\NewTestProject.Core.Entity.csprojAssemblyReference.cache
-C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Entity\obj\Debug\netcoreapp2.2\NewTestProject.Core.Entity.csproj.CoreCompileInputs.cache
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Entity\obj\Debug\netcoreapp2.2\NewTestProject.Core.Entity.AssemblyInfoInputs.cache
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Entity\obj\Debug\netcoreapp2.2\NewTestProject.Core.Entity.AssemblyInfo.cs
 C:\Users\nedas\Desktop\NewTestProject\NewTestProject.Core.Entity\obj\Debug\netcoreapp2.2\NewTestProject.Core.Entity.dll
