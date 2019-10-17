@@ -95,7 +95,7 @@ namespace NewTestProject.Infrastructure
         public List<int> getTopMoviesByAverageGrade(int count)
         {
             return _movieRatings
-                 .OrderByDescending(mr => averageRatingRecievedByMovie(mr.Movie))
+                 .OrderByDescending(mr => mr.Grade)
                  .Select(mr => mr.Movie)
                  .Distinct()
                  .Take(count)

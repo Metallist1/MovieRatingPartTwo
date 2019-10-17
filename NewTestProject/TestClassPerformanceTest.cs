@@ -110,15 +110,15 @@ namespace NewTestProject.Test
             Assert.True(Time(() => movieRatingService.getTopReviewers()) < 4);
         }
 
-    /*    [Fact]
+       [Fact]
         public void GetTopMoviesByAverageGrade_ValidArguments()
         {
             MovieReviewRepository movieRatingRepository = new MovieReviewRepository();
-            movieRatingRepository.Add(movieRatingList);
+            movieRatingRepository.AddJSON(movieRatingList);
             IMovieRatingService movieRatingService = new MovieRatingService(movieRatingRepository);
 
             Assert.True(Time(() => movieRatingService.getTopMoviesByAverageGrade(5)) < 4);
-        }*/
+        }
 
         [Fact]
         public void GetMoviesByReviewer_ValidArguments()
