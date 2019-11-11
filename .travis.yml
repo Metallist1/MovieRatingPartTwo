@@ -1,3 +1,2 @@
 language: csharp
-solution: NewTestProject.sln
 mono: none
